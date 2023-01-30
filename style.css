@@ -1,18 +1,9 @@
 #container {
     font-size: 18px;
-}
-.main_heading {
-    background-color: grey;
+    color: white
 }
 .main {
-    background-color: blue;
-}
-.main_footer {
-    background-color: green;
-}
-.main_header,
-.main_footer {
-  color: red;
+    background-color: rgb(25, 25, 136);
 }
 body {
     font-family: 'Open Sans', sans-serif;
