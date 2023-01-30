@@ -1,7 +1,32 @@
-
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: rgb(25, 25, 136);
+    background-color: rgb(36, 36, 80);
     font-size: 18px;
-    color: white
+    color: white;
+    line-height: 1.5;
+    width: 800px;
+    text-align: justify;
+    margin: 0 auto;
+}
+/* unvisited link */
+a:link {
+    color: greenyellow;
+  }
+
+  /* visited link */
+  a:visited {
+    color: red;
+  }
+
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+
+  /* selected link */
+  a:active {
+    color: yellow;
+  }
+.heading {
+    color:powderblue
 }
